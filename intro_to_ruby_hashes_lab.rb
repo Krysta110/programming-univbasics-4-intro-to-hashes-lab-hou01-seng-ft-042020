@@ -9,6 +9,7 @@ def my_hash
   krysta_hash={
     :age = 35
   }
+  return krysta_hash
 end
 
 def pioneer
