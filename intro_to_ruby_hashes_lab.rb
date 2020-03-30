@@ -7,7 +7,7 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   krysta_hash={
-    :age = 35
+    :age => 35
   }
   return krysta_hash
 end
