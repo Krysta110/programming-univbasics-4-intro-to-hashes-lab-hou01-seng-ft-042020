@@ -22,6 +22,10 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
+  my_hash = {
+    :id => 15
+  }
+  return my_hash
 end
 
 def my_hash_creator(key, value)
