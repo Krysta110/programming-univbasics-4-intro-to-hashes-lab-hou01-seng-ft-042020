@@ -1,5 +1,7 @@
 def new_hash
   # return an empty hash
+  krysta_hash = {}
+  return
 end
 
 def my_hash
